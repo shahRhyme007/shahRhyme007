@@ -8,3 +8,15 @@
 
 <br/>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **Python Project**
+ 
+ 🌱 I’m currently learning **React, DSA**
+
+💬 Ask me about **Java, Python, Javascript... or anything [here](https://github.com/shahRhyme007/shahRhyme007/issues)**
+
+⚡ Favourite Movie **Interstellar**
+
+ </div>
+ 
