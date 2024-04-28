@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/shah-a-rahman-rhyme-b31005227/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="file:///C:/Users/shahr/OneDrive/Documents/Rhyme%20UTA%20DOCS(important)/Shah%20Arifur%20Rahman%20Rhyme%20Final%20Year%20Resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=file&logoColor=orange" target="_blank" />
+  <a href="https://drive.google.com/drive/u/4/home" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=file&logoColor=white" target="_blank" />
   </a>
 </div>
