@@ -21,7 +21,7 @@
  </div>
  
 <div align="center"> 
-  <a href="shah.ar.rhyme@gmail.com">
+  <a href="mailto:shah.ar.rhyme@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/shah-a-rahman-rhyme-b31005227/" target="_blank">
