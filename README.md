@@ -69,10 +69,9 @@
 
 <hr/>
 
-<br/>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab!+:)">
+  </a>
+</h3>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
