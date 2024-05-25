@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React, DSA**
 
-💬 Ask me about **Java, Python, Javascript... or anything [here](https://github.com/shahRhyme007/shahRhyme007/issues)**
+💬 Ask me about **Java, Python, Javascript... or anything [here](https://rhymeshah.netlify.app/)**
 
 ⚡ Favourite Movie **Interstellar**
 
