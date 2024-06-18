@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A future Software developer Pursuing BSC from UT-Arlington</h3>
-<p>🇧🇩 🙌 🇧🇩 </p>
+<p align="center"> 🇧🇩 🙌 🇺🇸 </p>
 
 <br/>
 
